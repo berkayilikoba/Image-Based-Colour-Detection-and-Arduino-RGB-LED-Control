@@ -1,4 +1,4 @@
-# Colour Detection and Arduino RGB LED Control
+# Image-Based-Colour-Detection-and-Arduino-RGB-LED-Control
 
 This project detects the dominant colour in the center of an image using OpenCV and sends the detected colour name to an Arduino via serial communication. The Arduino then controls an RGB LED based on the detected colour.
 
@@ -61,3 +61,6 @@ If the center pixel of the image is close to **red**, the Arduino will receive `
 
 ## License
 This project is licensed under the MIT License.
+
+##Youtube Video
+https://www.youtube.com/watch?v=eIf_OxM4LYE
