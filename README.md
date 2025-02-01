@@ -62,5 +62,5 @@ If the center pixel of the image is close to **red**, the Arduino will receive `
 ## License
 This project is licensed under the MIT License.
 
-##Youtube Video
+## Youtube Video
 https://www.youtube.com/watch?v=eIf_OxM4LYE
